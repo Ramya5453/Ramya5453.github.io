@@ -1,0 +1,309 @@
+body{
+    background-color:purple;
+    background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0zODAtMDIuanBn.jpg);
+}
+    .header
+    {
+        
+        background-color: black;
+        padding-bottom:  50px;
+    }
+    ul
+    {
+        list-style-type: none;
+    }
+    li{
+        display: inline;
+        padding: 22px;
+        float: right;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+        
+    }
+    /*img{
+        padding-left: 1100px;
+        padding-bottom:50px ;
+        width: 400px;
+        height: 300px;
+    }*/
+    .sec
+    {
+         display: flex;
+         padding-left: 12px;
+         font-size: xx-large;
+         padding-right: 100px;
+    
+    }
+    h3{
+        font-family:'Times New Roman', Times, serif;
+        color: white;
+    }
+    h4{
+        font-family: 'Times New Roman', Times, serif;
+        color: white;
+        font-size: 40px;
+    }
+    p{
+        color: white;
+    }
+    #ram
+    {
+        font-family:'Times New Roman', Times, serif;
+        color: rgb(255, 251, 251);
+    }
+    .div1
+    {
+        height: 200px;
+        width: 800px;
+        border: #fff;
+    }
+    .div2
+    {
+        height: 100px;
+        width: 500px;
+        padding-left: 850px;
+        
+    }
+    .div3 a
+    {
+        color: black;
+        border: 2px solid;
+        padding-left :20px;
+        padding-right: 15px;
+        background-color: rgb(251, 250, 252);
+        border-radius: 10px;
+     
+    
+    }
+    .div3{
+        padding-left: 190px;
+    }
+    .ad{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: xx-large;
+        margin-top: 400px;
+        padding-left: 705px;
+    }
+    .ac{
+        padding-bottom: 0px;
+        height: 100px;
+        width: 700px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .div4
+    {
+        height: 100px;
+        width: 400px;
+        padding-left: 715px;
+        border: #fff;
+    }
+    .div5
+    {
+            height: 50px;
+            width: 300px;
+    }
+    #About
+    {
+         display: flex;
+         padding-right: 700px;
+         padding-bottom: 40px;
+         font-size: 25px;
+    }
+    #Skill
+    {
+        font-size: large;
+         display: flex;
+         padding-right: 400px;
+         margin-left: 200px;
+    }
+    h1{
+        font-size: 40px;
+        color: azure;
+    }
+    .s1
+    {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: xx-large;
+        margin-top: 200px;
+        padding-left: 505px;
+    }
+    .s2
+    {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: xx-large;
+        margin-top: 200px;
+        padding-left: 45px;
+    }
+    #Project
+    {
+         display: flex;
+         padding-right: 500px;
+         margin-left: 200px;
+    }
+    .div7{
+        margin-left: 350px;
+    }
+    .s3
+    {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: xx-large;
+        margin-top: 200px;
+    }
+    .div8{
+        margin-left: 700px;
+    }
+    .div9 img{
+        width: 100px;
+        margin-left: 700px;
+    }
+    .hd1{
+        margin:25px;
+        height: 50px;
+        width:55px;
+        padding-left: 25px;
+    
+    }
+    .co{
+        font-family: sans-serif;
+    }
+    .ce a{
+        font-size: larger;
+        color:crimson;
+    }
+    .hd2{
+        margin:25px;
+        height: 350px;
+        width:355px;
+        float:left;
+        padding-right: 550px;
+    
+    }
+    .services { 
+        display: flex; 
+        align-items: center; 
+        justify-content: center; 
+        flex-direction: column; 
+        margin: 4.8rem 0; 
+        padding: 0 5rem; 
+    } 
+    
+    .my-row { 
+        display: flex; 
+        align-items: center; 
+        justify-content: space-between; 
+        margin: 2rem 0; 
+    } 
+    
+    .my-row .my-col { 
+        text-align: center; 
+        width: 30%; 
+    } 
+    
+    .my-card { 
+        text-align: center; 
+        display: flex; 
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center; 
+        border-radius: 20px; 
+        background-image: linear-gradient(#74D7BB, #53C8B6, #35A99C); 
+        padding: 1rem; 
+    } 
+    
+    .icon { 
+        height: 100px; 
+        width: 100px; 
+        border-radius: 50%; 
+        background-color: #363D73; 
+        display: flex; 
+        align-items: center; 
+        justify-content: center; 
+    } 
+    
+    .icon svg { 
+        font-size: 30px; 
+        color: #fff; 
+    }
+    .pro{
+        display: flex;
+        padding-bottom: 100px;
+    }
+    .jj{
+        float: left;
+    }
+    .jj:hover{
+        transform: scale(0.9);
+    }
+    
+    .col1
+      {
+        float: left;
+        width: 50%;
+        padding: 0 10px;
+      }
+      .row1:after
+      {
+        content: "";
+        display: table;
+        clear: both;
+      }
+      .row1 >div
+      {
+        height: 150px;
+        width: 300px;
+        padding-left: 150px;
+        padding-bottom: 80px;
+      }
+      .sec4
+      {
+        box-sizing:border-box;
+      }
+    .divk
+    {
+        box-sizing: border-box;
+    }
+    .pro1 {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        padding: 16px;
+        text-align: center;
+        background-color:beige;
+        color: black;
+        transition: transform .2s;
+        
+      }
+      .pro1:hover {
+        transform: scale(1.2);
+      }
+     #Project
+     {
+        color: #fff;
+     }
+     img{
+        border: 5px solid#fff;
+     }
+     .container {
+        display: flex;
+        justify-content: space-around;
+        margin: 20px;
+        background-color: rgb(1, 16, 16);
+        color: black;
+    }
+
+    .section {
+        text-align: left;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: rgb(0, 6, 6);
+        color: black;
+    }
+.email{
+    text-align: left;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgb(1, 22, 22);
+    color: black;
+}
